@@ -4,44 +4,74 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="D_j0fSP-AJBoRoRcRjtG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D_j0fSP-AJBoRoRcRjtG-2" target="D_j0fSP-AJBoRoRcRjtG-12">
+        <mxCell id="0Z4inAamKr55tPoCJj5r-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Z4inAamKr55tPoCJj5r-3" target="0Z4inAamKr55tPoCJj5r-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D_j0fSP-AJBoRoRcRjtG-2" value="Aggregated Data" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#33FFFF;strokeWidth=2;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="0Z4inAamKr55tPoCJj5r-3" value="Aggregated Data" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#33FFFF;strokeWidth=2;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="430" y="200" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="D_j0fSP-AJBoRoRcRjtG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D_j0fSP-AJBoRoRcRjtG-4" target="D_j0fSP-AJBoRoRcRjtG-2">
+        <mxCell id="0Z4inAamKr55tPoCJj5r-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Z4inAamKr55tPoCJj5r-5" target="0Z4inAamKr55tPoCJj5r-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D_j0fSP-AJBoRoRcRjtG-4" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#33FFFF;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0Z4inAamKr55tPoCJj5r-5" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#33FFFF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="D_j0fSP-AJBoRoRcRjtG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D_j0fSP-AJBoRoRcRjtG-6" target="D_j0fSP-AJBoRoRcRjtG-4">
+        <mxCell id="0Z4inAamKr55tPoCJj5r-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Z4inAamKr55tPoCJj5r-7" target="0Z4inAamKr55tPoCJj5r-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D_j0fSP-AJBoRoRcRjtG-6" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#33FFFF;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0Z4inAamKr55tPoCJj5r-7" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#33FFFF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="120" y="200" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="D_j0fSP-AJBoRoRcRjtG-7" value="Analytics log" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Activity_Log.svg;" vertex="1" parent="1">
+        <mxCell id="0Z4inAamKr55tPoCJj5r-8" value="Analytics log" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Activity_Log.svg;" vertex="1" parent="1">
           <mxGeometry x="143.28" y="210" width="33.44" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="D_j0fSP-AJBoRoRcRjtG-8" value="Aggregators" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_farm;fillColor=#7FBA42;" vertex="1" parent="1">
+        <mxCell id="0Z4inAamKr55tPoCJj5r-9" value="Aggregators" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_farm;fillColor=#7FBA42;" vertex="1" parent="1">
           <mxGeometry x="292" y="205.5" width="56" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="D_j0fSP-AJBoRoRcRjtG-9" value="" style="shape=mxgraph.cisco.storage.relational_database;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="0Z4inAamKr55tPoCJj5r-10" value="" style="shape=mxgraph.cisco.storage.relational_database;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="201.5" width="20" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="D_j0fSP-AJBoRoRcRjtG-10" value="" style="shape=mxgraph.cisco.storage.relational_database;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="0Z4inAamKr55tPoCJj5r-11" value="" style="shape=mxgraph.cisco.storage.relational_database;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="205.5" width="20" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="D_j0fSP-AJBoRoRcRjtG-11" value="" style="shape=mxgraph.cisco.storage.relational_database;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="213" width="20" height="37" as="geometry" />
+        <mxCell id="0Z4inAamKr55tPoCJj5r-12" value="" style="shape=mxgraph.cisco.storage.relational_database;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="210" width="20" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="D_j0fSP-AJBoRoRcRjtG-12" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#33FFFF;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0Z4inAamKr55tPoCJj5r-13" value="Update weekly" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" edge="1" parent="1" source="0Z4inAamKr55tPoCJj5r-14" target="0Z4inAamKr55tPoCJj5r-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Z4inAamKr55tPoCJj5r-14" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#33FFFF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="590" y="200" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="D_j0fSP-AJBoRoRcRjtG-13" value="Workers" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_farm;fillColor=#7FBA42;" vertex="1" parent="1">
+        <mxCell id="0Z4inAamKr55tPoCJj5r-15" value="Workers" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_farm;fillColor=#7FBA42;" vertex="1" parent="1">
           <mxGeometry x="602" y="207" width="56" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="0Z4inAamKr55tPoCJj5r-16" value="Weekly snapshot DB" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" edge="1" parent="1" source="0Z4inAamKr55tPoCJj5r-17" target="0Z4inAamKr55tPoCJj5r-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Z4inAamKr55tPoCJj5r-17" value="Trie DB" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#33FFFF;strokeWidth=2;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="790" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0Z4inAamKr55tPoCJj5r-18" value="" style="shape=mxgraph.cisco.storage.relational_database;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="201.5" width="20" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="0Z4inAamKr55tPoCJj5r-19" value="" style="shape=mxgraph.cisco.storage.relational_database;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="205.5" width="20" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="0Z4inAamKr55tPoCJj5r-20" value="" style="shape=mxgraph.cisco.storage.relational_database;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="210" width="20" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="0Z4inAamKr55tPoCJj5r-21" value="Trie Cache" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#33FFFF;strokeWidth=2;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="790" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0Z4inAamKr55tPoCJj5r-22" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cache_node;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="805" y="48.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Z4inAamKr55tPoCJj5r-23" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cache_node;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="815" y="58.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Z4inAamKr55tPoCJj5r-24" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cache_node;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="825" y="68.5" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
