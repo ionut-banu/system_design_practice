@@ -1,9 +1,39 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15" version="25.0.3">
   <diagram name="Page-1" id="iShj6CPr5NxjhSrO0xrF">
-    <mxGraphModel>
+    <mxGraphModel dx="1194" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CjEVGGV9_XGivrdzBZ2u-1" value="" style="rounded=1;whiteSpace=wrap;html=1;spacingLeft=0;spacingTop=0;strokeColor=#00FFFF;strokeWidth=2;dashed=1;fontSize=16;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="530" width="100.38" height="81.75" as="geometry" />
+        </mxCell>
+        <mxCell id="CjEVGGV9_XGivrdzBZ2u-2" value="streaming video" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="CjEVGGV9_XGivrdzBZ2u-4" target="CjEVGGV9_XGivrdzBZ2u-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CjEVGGV9_XGivrdzBZ2u-3" value="everything else" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="CjEVGGV9_XGivrdzBZ2u-4" target="CjEVGGV9_XGivrdzBZ2u-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CjEVGGV9_XGivrdzBZ2u-4" value="Client" style="rounded=1;whiteSpace=wrap;html=1;spacingLeft=-210;spacingTop=-50;strokeColor=#00FFFF;strokeWidth=2;dashed=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="350" y="350" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CjEVGGV9_XGivrdzBZ2u-5" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#000000;shape=mxgraph.azure.laptop" vertex="1" parent="1">
+          <mxGeometry x="400" y="380" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CjEVGGV9_XGivrdzBZ2u-6" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#000000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
+          <mxGeometry x="480" y="374" width="25" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="CjEVGGV9_XGivrdzBZ2u-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/iphone-7-airpods-icons-solid-style/24/apple-tv-box-128.png" vertex="1" parent="1">
+          <mxGeometry x="530" y="360" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CjEVGGV9_XGivrdzBZ2u-8" value="" style="rounded=1;whiteSpace=wrap;html=1;spacingLeft=0;spacingTop=0;strokeColor=#00FFFF;strokeWidth=2;dashed=1;fontSize=16;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="530" width="100.38" height="81.75" as="geometry" />
+        </mxCell>
+        <mxCell id="CjEVGGV9_XGivrdzBZ2u-9" value="CDN" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/CDN_Profiles.svg;" vertex="1" parent="1">
+          <mxGeometry x="269.81" y="541.12" width="80.75" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CjEVGGV9_XGivrdzBZ2u-10" value="API servers" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_farm;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="632.19" y="536.38" width="56" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
